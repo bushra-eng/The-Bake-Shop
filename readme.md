@@ -4,7 +4,7 @@ Tkinter based Application:
 
 Problem Statement	
 
-Build an application in Python programming language to keep records of The Bake Shop, as discussed in lecture 01. 
+Build an application in Python programming language to keep records of The Bake Shop. 
 
 Design Constraints 
 
